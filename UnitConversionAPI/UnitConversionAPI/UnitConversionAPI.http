@@ -1,0 +1,6 @@
+@UnitConversionAPI_HostAddress = http://localhost:5163
+
+GET {{UnitConversionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
